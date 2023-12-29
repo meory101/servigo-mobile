@@ -1,4 +1,4 @@
-String serverlink = 'http://192.168.186.164:8001';
+String serverlink = 'http://192.168.190.164:8001';
 String signupurl = '${serverlink}/api/signUp';
 String signinurl = '${serverlink}/api/signIn';
 String getservicetypesurl = '${serverlink}/api/getServiceTypes';

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22304772284",
+    "project_id": "servigo-387421",
+    "storage_bucket": "servigo-387421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22304772284:android:b35f3a1cc475e8ee0100b9",
+        "android_client_info": {
+          "package_name": "com.example.servigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPwJ8HK9p3ByHwszTTS4QC37RZM3s3TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

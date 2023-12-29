@@ -454,7 +454,7 @@ class _orderInfoState extends State<orderInfo> {
                               ? Container(
                                   margin: EdgeInsets.only(top: 30),
                                   alignment: Alignment.topRight,
-                                  child: RaisedButton(
+                                  child: MaterialButton(
                                     padding: EdgeInsets.symmetric(
                                         horizontal: 20, vertical: 15),
                                     shape: RoundedRectangleBorder(
@@ -494,7 +494,7 @@ class _orderInfoState extends State<orderInfo> {
                                   ? Container(
                                       margin: EdgeInsets.only(top: 30),
                                       alignment: Alignment.topRight,
-                                      child: RaisedButton(
+                                      child: MaterialButton(
                                         padding: EdgeInsets.symmetric(
                                             horizontal: 20, vertical: 15),
                                         shape: RoundedRectangleBorder(
@@ -516,7 +516,7 @@ class _orderInfoState extends State<orderInfo> {
                                   ? Container(
                                       margin: EdgeInsets.only(top: 30),
                                       alignment: Alignment.topRight,
-                                      child: RaisedButton(
+                                      child: MaterialButton(
                                         padding: EdgeInsets.symmetric(
                                             horizontal: 20, vertical: 15),
                                         shape: RoundedRectangleBorder(
@@ -758,7 +758,7 @@ class _orderInfoState extends State<orderInfo> {
                                             Container(
                                               margin: EdgeInsets.only(top: 30),
                                               alignment: Alignment.topRight,
-                                              child: RaisedButton(
+                                              child: MaterialButton(
                                                 padding: EdgeInsets.symmetric(
                                                     horizontal: 20,
                                                     vertical: 15),
@@ -780,7 +780,7 @@ class _orderInfoState extends State<orderInfo> {
                                             Container(
                                               margin: EdgeInsets.only(top: 30),
                                               alignment: Alignment.topRight,
-                                              child: RaisedButton(
+                                              child: MaterialButton(
                                                 padding: EdgeInsets.symmetric(
                                                     horizontal: 20,
                                                     vertical: 15),
